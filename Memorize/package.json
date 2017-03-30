@@ -1,0 +1,17 @@
+{
+  "name": "memorize",
+  "version": "1.0.0",
+  "description": "This project have been created for recording every thing in your life , and you can create memory as private or public ",
+  "main": "index.js",
+  "scripts": {
+    "test": "Do you have a memorize"
+  },
+  "keywords": [
+    "last",
+    "personal",
+    "progect",
+    "memorize"
+  ],
+  "author": "Radwan",
+  "license": "ISC"
+}
